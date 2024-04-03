@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saitha M S</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-<img align="right" alt=Coding width="400" src="https://enterprix.us/wp-content/uploads/2020/03/data-analysis-elements2-41.png">
+<img align="right" alt=Coding width="400" src="[https://enterprix.us/wp-content/uploads/2020/03/data-analysis-elements2-41.png](https://w7.pngwing.com/pngs/881/801/png-transparent-data-analysis-data-science-analytics-analyst-text-logo-cartoon.png)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saithasai&label=Profile%20views&color=0e75b6&style=flat" alt="saithasai" /> </p>
 
